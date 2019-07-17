@@ -55,6 +55,8 @@ transform: rotate(45deg) translate(-8px, -8px);
 
 @media screen and (max-height: 450px)
  {.menu: {padding-top: 15px;}
-   .menu a {font-size: 18px;}
+   .menu a {font-size: 18px;
+	   .open {width:50px;}
+	 }
  
  }
