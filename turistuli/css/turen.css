@@ -1,6 +1,6 @@
 body {margin: 0;
      padding: 0;
-     background-color: rgb(0, 153, 153);}
+     background: linear-gradient(#3B53B1, #6378CB, #AAB5E1, #D9DDED, #EEF0F7);}
 
 header {background-color: black;}
 
